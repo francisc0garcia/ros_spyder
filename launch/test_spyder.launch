@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="spyder_4dof" type="test_spyder.py" name="test_spyder" output="screen" />
+</launch>

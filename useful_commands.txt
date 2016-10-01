@@ -1,0 +1,5 @@
+-- launch test
+
+cd ~/Documents/code/ros_spyder
+source devel/setup.bash
+roslaunch spyder_4dof test_spyder.launch
